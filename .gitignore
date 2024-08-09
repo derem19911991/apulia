@@ -1,0 +1,7 @@
+# Escludi file .env in tutte le sottocartelle
+**/.env
+
+# Escludi node_modules in tutte le sottocartelle
+**/node_modules/
+
+**/vendor/
